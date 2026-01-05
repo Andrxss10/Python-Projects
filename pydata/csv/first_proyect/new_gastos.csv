@@ -1,0 +1,7 @@
+,fecha,categoria,descripcion,monto,metodo_pago
+0,2025-01-01,Comida,Almuerzo,15000.0,Efectivo
+1,2025-01-02,Transporte,Bus,3000.0,Efectivo
+2,2025-01-02,Comida,Café,2500.0,Tarjeta
+3,2025-01-03,Entretenimiento,Cine,0.0,Tarjeta
+4,2025-01-04,Comida,Cena,18000.0,Desconocido
+5,2025-01-05,Transporte,Taxi,22000.0,Tarjeta

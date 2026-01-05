@@ -1,0 +1,7 @@
+﻿fecha,categoria,descripcion,monto,metodo_pago
+2025-01-01,Comida,Almuerzo,15000,Efectivo
+2025-01-02,Transporte,Bus,3000,Efectivo
+2025-01-02,Comida,Café,2500,Tarjeta
+2025-01-03,Entretenimiento,Cine,,Tarjeta
+2025-01-04,Comida,Cena,18000,
+2025-01-05,Transporte,Taxi,22000,Tarjeta
